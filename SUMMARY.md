@@ -10,6 +10,7 @@
 * [Overview](sms-api/overview.md)
 * [Send SMS](sms-api/send-sms.md)
 * [Send SMS \(POST API\)](sms-api/send-sms-post-api.md)
+* [Confidential SMS](sms-api/confidential-sms.md)
 
 ## Voice API
 
