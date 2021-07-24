@@ -1,6 +1,6 @@
 # Confidential SMS
 
-Being the most trusted Communication Service provider by our banking domain-based clients, the team at [Saino](https://saino.io/) identified that the SMSes sent by these clients often include Confidential Details of their prestigious customers like OTPs, Transaction Notifications, etc. These details may sometimes be too critical to be stored/persisted into the systems.
+Being the most trusted Communication Service provider by our banking, Stock Market etc. clients, the team at [Saino](https://saino.io/) identified that the SMSes sent by these clients often include Confidential Details of their prestigious customers like OTPs, Transaction Notifications, etc. These details may sometimes be too critical to be stored/persisted into the systems.
 
 So we came up with a solution that we would simply not store these details in our systems once it is sent to the operator for the delivery. However, we cannot promise a similar behavior from the Operators' side as it is not in our hands. This feature lets you make sure that your customers' confidential details are no longer persisted at least in our systems and assures better privacy to their data. 
 
