@@ -49,7 +49,7 @@ You can add these parameters in the HTTP API only, as per your requirement you c
 | Unicode | &unicode=1 | Message can be send in any language \( Values 1 or 0 \) |
 | Schedule | &time= | Schedule time \(in format i.e,yyyy-mm-dd hh:mm:ss\) at which the SMS has to be sent |
 | Flash  | &flash=1 | Send flash sms via API \( Values 1 or 0 \) |
-| Confidential SMS | &is\_confidential=1 | Saino Platform will not store the message. It will simply pass the actual content to the operator. More information click here |
+| Confidential SMS | &is\_confidential=1 | Saino Platform will not store the message. It will simply pass the actual content to the operator. More information click [here](https://apidocs.saino.io/sms-api/confidential-sms) |
 
 ### Got stuck?  <a id="got-stuck"></a>
 
