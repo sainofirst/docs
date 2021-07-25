@@ -22,6 +22,13 @@ Your API key in request header.
 {% endapi-method-headers %}
 
 {% api-method-body-parameters %}
+{% api-method-parameter name="is\_confidential" type="boolean" required=false %}
+0 - Send as Normal SMS  
+1 - Send as Confidential SMS  
+  
+Read more on What is Confidential SMS?
+{% endapi-method-parameter %}
+
 {% api-method-parameter name="dltTemplateId" type="number" required=false %}
 Only for India, If you want to pass directly template id via API you can do that with this parameter., update Entity under Saino app profile section. For more info open below link - https://help.saino.io/registration-on-dlt-india\#how-to-add-template-on-saino-platform
 {% endapi-method-parameter %}
