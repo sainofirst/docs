@@ -26,7 +26,7 @@ Your API key in request header.
 0 - Send as Normal SMS  
 1 - Send as Confidential SMS  
   
-Read more on What is Confidential SMS?
+Read more on Confidential SMS section \(https://apidocs.saino.io/sms-api/send-sms-post-api\).
 {% endapi-method-parameter %}
 
 {% api-method-parameter name="dltTemplateId" type="number" required=false %}
